@@ -45,8 +45,10 @@ Optional: Select the TimeFrame
 - In the right, the chart of IMF debt per year (USD).  
 
 
-### 2- Charts Page  
+### 2- Chart Page 1  
 ![p1](images/p1.png)
+
+- Find again the Total IMF Credit in USD on the left
 
 - Total Cost of External Debt vs Total Export:
     External debt is often denominated in USD, which obligates the country to increase its exports. If the cost of external debt is going up, are the exports also going up? This would confirm the correlation and the need for exports to reimburse the external debt.
@@ -54,6 +56,12 @@ Optional: Select the TimeFrame
 - IMF's Debt Charges vs Current Account (%):
     We are comparing the charges for the IMF's debt only with the Current Account Balance, which is basically the difference between exports and imports. The IMF charges in USD, which can obligate developing countries to increase their exports to obtain USD to reimburse the debt.   
     If the current account is negative, meaning imports are growing quicker than exports, the population may not be able to produce enough for themselves anymore.
+
+
+### 3- Chart Page 2
+![p2](images/p2.png)
+
+- Find again the Total IMF Credit in USD on the left
 
 - %GDP growth vs %inflation growth:
     Is the GDP growing and is inflation under control?   
